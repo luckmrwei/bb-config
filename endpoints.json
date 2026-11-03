@@ -1,0 +1,34 @@
+{
+  "version": 21,
+  "sig": "1a09d8ea1540badcb525c1a14511756d04ac99feaaf4ae4058a9832c46dcefdf",
+  "hash": "79e8ee51a470d44f",
+  "endpoints": [
+    {
+      "scheme": "http",
+      "ip": "127.0.0.1",
+      "port": 8080,
+      "regions": [
+        "cn"
+      ]
+    },
+    {
+      "scheme": "http",
+      "ip": "45.76.96.175",
+      "port": 8080,
+      "regions": [
+        "cn"
+      ]
+    },
+    {
+      "scheme": "https",
+      "ip": "wwww.byteflow.com",
+      "port": 443,
+      "regions": []
+    }
+  ],
+  "signed": {
+    "kid": "k1",
+    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyMSwiaXNzdWVkX2F0IjoiMjAyNi0xMS0wMVQwNDoxNDozM1oiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI0NS43Ni45Ni4xNzUiLCJwb3J0Ijo4MDgwLCJyZWdpb25zIjpbImNuIl19LHsic2NoZW1lIjoiaHR0cHMiLCJpcCI6Ind3d3cuYnl0ZWZsb3cuY29tIiwicG9ydCI6NDQzLCJyZWdpb25zIjpbXX1dfQ",
+    "sig": "9W6wpXJ97wSDzNA83cu7hAb5edSbRopcb92NWpiYPzxDpmaVF8UXznyXrBUexlQjeBHuS-ybtBp8kflXFhG1AA"
+  }
+}
