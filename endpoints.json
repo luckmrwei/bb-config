@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "sig": "7621d21fc09856d38aa2bc7a02aab0c1fbec3b999459eebe3f2cf18bd78bfada",
+  "version": 25,
+  "sig": "bfa951271f6b2e91411e3279a8a545623e8f3c29968ba80611654a50053f1327",
   "hash": "5b7993b987f5cbea",
   "endpoints": [
     {
@@ -22,7 +22,7 @@
   ],
   "signed": {
     "kid": "k1",
-    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyNCwiaXNzdWVkX2F0IjoiMjAyNi0xMS0wOFQwODoxMDoxNFoiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI0NS43Ny40Ny4yNDIiLCJwb3J0Ijo4MDgwLCJyZWdpb25zIjpbImNuIl19XX0",
-    "sig": "opIkR9SETKbpUtNoeN_JyzyD7xFOp9PKlJQllygkJ0Q4wWriMjjE1zUhwMdIkx1VZOGUERg0Z1n1s9FtyG-PBA"
+    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyNSwiaXNzdWVkX2F0IjoiMjAyNi0xMS0wOFQwODoxMTo1MloiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI0NS43Ny40Ny4yNDIiLCJwb3J0Ijo4MDgwLCJyZWdpb25zIjpbImNuIl19XX0",
+    "sig": "idwewdf5LvyO67eVcekFtKTLPwzUjwEgAdplFr20ZobDbzwHJU0RsIaVea7J2gRKr9RM4gcks2hZojtS-tD9CA"
   }
 }
