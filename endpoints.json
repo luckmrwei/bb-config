@@ -1,6 +1,6 @@
 {
-  "version": 26,
-  "sig": "9194537cb74f783fe72a02bd46282ad1df0859f8d77d244ef5094a47c3fc6fde",
+  "version": 28,
+  "sig": "206ff601c6116f5d140de3e4dfdba64a6b34707a5d242c5d01a3ae7a4a7e8cd8",
   "hash": "8c5275be8d681c10",
   "endpoints": [
     {
@@ -22,7 +22,7 @@
   ],
   "signed": {
     "kid": "k1",
-    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyNiwiaXNzdWVkX2F0IjoiMjAyNi0xMS0xMlQwNjo1MDoyOFoiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI2NC4xNzYuODUuMTA0IiwicG9ydCI6ODA4MCwicmVnaW9ucyI6WyJjbiJdfV19",
-    "sig": "60GP7wZLjEyTJ1MlQPRcILxh7eH6y8PA3a9sTxsqTmeUYwddz-j3NHgHBzX3T-XPOWcS_7TqC749oC2ySbKaAA"
+    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyOCwiaXNzdWVkX2F0IjoiMjAyNi0xMS0xMlQwNjo1MjoyMVoiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI2NC4xNzYuODUuMTA0IiwicG9ydCI6ODA4MCwicmVnaW9ucyI6WyJjbiJdfV19",
+    "sig": "jiG1OEXw-rten--wzkkMiV9p1jPvjXO3gtwfeotytKZPweaxzVzXL0hshDYm3xwSwOm2wjvLrEHr4QvIkUgkAg"
   }
 }
