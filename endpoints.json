@@ -1,7 +1,7 @@
 {
-  "version": 27,
-  "sig": "0a2976e2cb8671ec20148ccc2da6a1ff6545332b4140a6515ed1f8cb709eb338",
-  "hash": "153a32024d73a9b2",
+  "version": 26,
+  "sig": "9194537cb74f783fe72a02bd46282ad1df0859f8d77d244ef5094a47c3fc6fde",
+  "hash": "8c5275be8d681c10",
   "endpoints": [
     {
       "scheme": "http",
@@ -13,7 +13,7 @@
     },
     {
       "scheme": "http",
-      "ip": "45.76.96.175",
+      "ip": "64.176.85.104",
       "port": 8080,
       "regions": [
         "cn"
@@ -22,7 +22,7 @@
   ],
   "signed": {
     "kid": "k1",
-    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyNywiaXNzdWVkX2F0IjoiMjAyNi0xMS0wOFQwOToxNTo0MloiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI0NS43Ni45Ni4xNzUiLCJwb3J0Ijo4MDgwLCJyZWdpb25zIjpbImNuIl19XX0",
-    "sig": "A5wiEIlCcTNFdwwhGOlxydP-HtmWi06OvbLEH3jpGaW1ZPaZK55zGQL1HFxhvH5MRcQK-kbxxnN8yoeBihoZDg"
+    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyNiwiaXNzdWVkX2F0IjoiMjAyNi0xMS0xMlQwNjo1MDoyOFoiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiI2NC4xNzYuODUuMTA0IiwicG9ydCI6ODA4MCwicmVnaW9ucyI6WyJjbiJdfV19",
+    "sig": "60GP7wZLjEyTJ1MlQPRcILxh7eH6y8PA3a9sTxsqTmeUYwddz-j3NHgHBzX3T-XPOWcS_7TqC749oC2ySbKaAA"
   }
 }
