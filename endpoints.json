@@ -1,12 +1,20 @@
 {
-  "version": 29,
-  "sig": "5c8917fb31153d9946738670832a66ac528575781abc4ea822fdbdfd9f078c71",
-  "hash": "d0a488d66eb74cb2",
+  "version": 30,
+  "sig": "8dd30f7cac25e6e0984bf996b5a961f244af329656e97842e679cbbc28815315",
+  "hash": "2264b1af0b4d285e",
   "endpoints": [
     {
       "scheme": "http",
       "ip": "127.0.0.1",
       "port": 8080,
+      "regions": [
+        "cn"
+      ]
+    },
+    {
+      "scheme": "https",
+      "ip": "api.byteflows.com",
+      "port": 443,
       "regions": [
         "cn"
       ]
@@ -22,7 +30,7 @@
   ],
   "signed": {
     "kid": "k1",
-    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjoyOSwiaXNzdWVkX2F0IjoiMjAyNi0xMS0yM1QwODowMzozMVoiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiIxNDkuMjguMTU1LjE4NCIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX1dfQ",
-    "sig": "ogKjWUjbaCOz21ChQrTNU_WS-XFZ54_0ckCVur243m6ZQsLVw146zzlf5IeQedX1JL6gc1CqaXk4SdYJIg6DBQ"
+    "doc": "eyJ2IjoxLCJ2ZXJzaW9uIjozMCwiaXNzdWVkX2F0IjoiMjAyNi0xMS0yM1QxMToxODo1NloiLCJlbmRwb2ludHMiOlt7InNjaGVtZSI6Imh0dHAiLCJpcCI6IjEyNy4wLjAuMSIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwcyIsImlwIjoiYXBpLmJ5dGVmbG93cy5jb20iLCJwb3J0Ijo0NDMsInJlZ2lvbnMiOlsiY24iXX0seyJzY2hlbWUiOiJodHRwIiwiaXAiOiIxNDkuMjguMTU1LjE4NCIsInBvcnQiOjgwODAsInJlZ2lvbnMiOlsiY24iXX1dfQ",
+    "sig": "tgJ-TTJfaaJrBSXssNGMP82R9U2EabOifAMfwVVpfawFW9o9ahCTdakV5qYHkGABUf0NLQum6bwovPd0rWEyBQ"
   }
 }
